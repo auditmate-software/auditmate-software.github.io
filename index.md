@@ -65,8 +65,7 @@ Early adopters are welcome.
 
 If you’re preparing for a SOC 2 audit and want early access, feedback, or pricing details:
 
-📧 **Email:** yourname@yourdomain.com  
-(or use a ProtonMail/Gmail address for now)
+📧 **Email:** audit-mate@proton.me
 
 ---
 
