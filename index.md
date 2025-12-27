@@ -1,3 +1,15 @@
+Open Source Core
+
+AuditMate’s core functionality is open source. You can:
+
+View and contribute to the core scan and baseline features on GitHub.
+
+Customize the core for your needs.
+
+Run the core offline, fully free.
+
+Advanced features like JSON export, premium license features, and notifications are part of the paid version and remain closed source. This allows AuditMate to stay sustainable while keeping the core transparent and community-friendly.
+
 # AuditMate – Complete System Auditing for Linux
 
 AuditMate is an automated system auditing tool designed to give administrators full visibility into their Linux servers. It monitors system health, detects security issues, tracks changes over time, and provides actionable warnings—all with minimal setup.
